@@ -26,7 +26,7 @@ Segui questi passaggi per configurare l'ambiente di lavoro sul tuo computer:
     git clone https://github.com/francobelloni85/introduzione-ai.git
     ```
     ```bash
-    cd NOME_DEL_TUO_REPOSITORY
+    cd introduzione-ai
     ```
    
 
